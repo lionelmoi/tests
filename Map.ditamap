@@ -2,6 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>test</title>
+  <topicref href="fuu.dita"/>
     <topicref href="Topic.dita"/>
   	<keydef keys="foo">
     	<topicmeta>
