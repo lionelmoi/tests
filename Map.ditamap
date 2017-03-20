@@ -3,4 +3,11 @@
 <map>
     <title>test</title>
     <topicref href="Topic.dita"/>
+  	<keydef keys="foo">
+    	<topicmeta>
+          <keywords>
+            <keyword>foo</keyword>
+          </keywords>
+     	</topicmeta>  
+  	</keydef>
 </map>
