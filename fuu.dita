@@ -9,7 +9,7 @@
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd><xref href="Topic.dita#topic_ipy_d5m_hz"/></cmd>
             </step>
         </steps>
     </taskbody>
