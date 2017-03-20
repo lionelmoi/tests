@@ -3,6 +3,6 @@
 <topic id="topic_ipy_d5m_hz">
     <title>test</title>
     <body>
-        <p></p>
+        <p><ph keyref="foo"/></p>
     </body>
 </topic>
